@@ -1,0 +1,1285 @@
+{
+  "version": "1.0",
+  "project": {
+    "name": "large-test-project",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "frameworks": [
+      "React",
+      "Express"
+    ],
+    "description": "Auto-generated project with 50 nodes for performance testing.",
+    "analyzedAt": "2026-09-25T14:32:45.035Z",
+    "gitCommitHash": "0000000000000000000000000000000000000000"
+  },
+  "nodes": [
+    {
+      "id": "node-0",
+      "type": "class",
+      "name": "class_0",
+      "summary": "Auto-generated class node #0 for performance testing.",
+      "tags": [
+        "class",
+        "group-0"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-1",
+      "type": "concept",
+      "name": "concept_1",
+      "summary": "Auto-generated concept node #1 for performance testing.",
+      "tags": [
+        "concept",
+        "group-1"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-2",
+      "type": "file",
+      "name": "file_2",
+      "filePath": "src/file_2.ts",
+      "summary": "Auto-generated file node #2 for performance testing.",
+      "tags": [
+        "file",
+        "group-2"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-3",
+      "type": "class",
+      "name": "class_3",
+      "summary": "Auto-generated class node #3 for performance testing.",
+      "tags": [
+        "class",
+        "group-3"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-4",
+      "type": "file",
+      "name": "file_4",
+      "filePath": "src/file_4.ts",
+      "summary": "Auto-generated file node #4 for performance testing.",
+      "tags": [
+        "file",
+        "group-4"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-5",
+      "type": "class",
+      "name": "class_5",
+      "summary": "Auto-generated class node #5 for performance testing.",
+      "tags": [
+        "class",
+        "group-5"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-6",
+      "type": "class",
+      "name": "class_6",
+      "summary": "Auto-generated class node #6 for performance testing.",
+      "tags": [
+        "class",
+        "group-6"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-7",
+      "type": "file",
+      "name": "file_7",
+      "filePath": "src/file_7.ts",
+      "summary": "Auto-generated file node #7 for performance testing.",
+      "tags": [
+        "file",
+        "group-7"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-8",
+      "type": "function",
+      "name": "function_8",
+      "summary": "Auto-generated function node #8 for performance testing.",
+      "tags": [
+        "function",
+        "group-8"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-9",
+      "type": "concept",
+      "name": "concept_9",
+      "summary": "Auto-generated concept node #9 for performance testing.",
+      "tags": [
+        "concept",
+        "group-9"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-10",
+      "type": "module",
+      "name": "module_10",
+      "summary": "Auto-generated module node #10 for performance testing.",
+      "tags": [
+        "module",
+        "group-10"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-11",
+      "type": "concept",
+      "name": "concept_11",
+      "summary": "Auto-generated concept node #11 for performance testing.",
+      "tags": [
+        "concept",
+        "group-11"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-12",
+      "type": "file",
+      "name": "file_12",
+      "filePath": "src/file_12.ts",
+      "summary": "Auto-generated file node #12 for performance testing.",
+      "tags": [
+        "file",
+        "group-12"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-13",
+      "type": "concept",
+      "name": "concept_13",
+      "summary": "Auto-generated concept node #13 for performance testing.",
+      "tags": [
+        "concept",
+        "group-13"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-14",
+      "type": "file",
+      "name": "file_14",
+      "filePath": "src/file_14.ts",
+      "summary": "Auto-generated file node #14 for performance testing.",
+      "tags": [
+        "file",
+        "group-14"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-15",
+      "type": "module",
+      "name": "module_15",
+      "summary": "Auto-generated module node #15 for performance testing.",
+      "tags": [
+        "module",
+        "group-15"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-16",
+      "type": "class",
+      "name": "class_16",
+      "summary": "Auto-generated class node #16 for performance testing.",
+      "tags": [
+        "class",
+        "group-16"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-17",
+      "type": "module",
+      "name": "module_17",
+      "summary": "Auto-generated module node #17 for performance testing.",
+      "tags": [
+        "module",
+        "group-17"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-18",
+      "type": "class",
+      "name": "class_18",
+      "summary": "Auto-generated class node #18 for performance testing.",
+      "tags": [
+        "class",
+        "group-18"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-19",
+      "type": "concept",
+      "name": "concept_19",
+      "summary": "Auto-generated concept node #19 for performance testing.",
+      "tags": [
+        "concept",
+        "group-19"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-20",
+      "type": "file",
+      "name": "file_20",
+      "filePath": "src/file_20.ts",
+      "summary": "Auto-generated file node #20 for performance testing.",
+      "tags": [
+        "file",
+        "group-0"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-21",
+      "type": "function",
+      "name": "function_21",
+      "summary": "Auto-generated function node #21 for performance testing.",
+      "tags": [
+        "function",
+        "group-1"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-22",
+      "type": "class",
+      "name": "class_22",
+      "summary": "Auto-generated class node #22 for performance testing.",
+      "tags": [
+        "class",
+        "group-2"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-23",
+      "type": "module",
+      "name": "module_23",
+      "summary": "Auto-generated module node #23 for performance testing.",
+      "tags": [
+        "module",
+        "group-3"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-24",
+      "type": "concept",
+      "name": "concept_24",
+      "summary": "Auto-generated concept node #24 for performance testing.",
+      "tags": [
+        "concept",
+        "group-4"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-25",
+      "type": "module",
+      "name": "module_25",
+      "summary": "Auto-generated module node #25 for performance testing.",
+      "tags": [
+        "module",
+        "group-5"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-26",
+      "type": "module",
+      "name": "module_26",
+      "summary": "Auto-generated module node #26 for performance testing.",
+      "tags": [
+        "module",
+        "group-6"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-27",
+      "type": "function",
+      "name": "function_27",
+      "summary": "Auto-generated function node #27 for performance testing.",
+      "tags": [
+        "function",
+        "group-7"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-28",
+      "type": "class",
+      "name": "class_28",
+      "summary": "Auto-generated class node #28 for performance testing.",
+      "tags": [
+        "class",
+        "group-8"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-29",
+      "type": "class",
+      "name": "class_29",
+      "summary": "Auto-generated class node #29 for performance testing.",
+      "tags": [
+        "class",
+        "group-9"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-30",
+      "type": "function",
+      "name": "function_30",
+      "summary": "Auto-generated function node #30 for performance testing.",
+      "tags": [
+        "function",
+        "group-10"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-31",
+      "type": "concept",
+      "name": "concept_31",
+      "summary": "Auto-generated concept node #31 for performance testing.",
+      "tags": [
+        "concept",
+        "group-11"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-32",
+      "type": "module",
+      "name": "module_32",
+      "summary": "Auto-generated module node #32 for performance testing.",
+      "tags": [
+        "module",
+        "group-12"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-33",
+      "type": "concept",
+      "name": "concept_33",
+      "summary": "Auto-generated concept node #33 for performance testing.",
+      "tags": [
+        "concept",
+        "group-13"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-34",
+      "type": "concept",
+      "name": "concept_34",
+      "summary": "Auto-generated concept node #34 for performance testing.",
+      "tags": [
+        "concept",
+        "group-14"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-35",
+      "type": "file",
+      "name": "file_35",
+      "filePath": "src/file_35.ts",
+      "summary": "Auto-generated file node #35 for performance testing.",
+      "tags": [
+        "file",
+        "group-15"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-36",
+      "type": "class",
+      "name": "class_36",
+      "summary": "Auto-generated class node #36 for performance testing.",
+      "tags": [
+        "class",
+        "group-16"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-37",
+      "type": "module",
+      "name": "module_37",
+      "summary": "Auto-generated module node #37 for performance testing.",
+      "tags": [
+        "module",
+        "group-17"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-38",
+      "type": "class",
+      "name": "class_38",
+      "summary": "Auto-generated class node #38 for performance testing.",
+      "tags": [
+        "class",
+        "group-18"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-39",
+      "type": "function",
+      "name": "function_39",
+      "summary": "Auto-generated function node #39 for performance testing.",
+      "tags": [
+        "function",
+        "group-19"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "node-40",
+      "type": "class",
+      "name": "class_40",
+      "summary": "Auto-generated class node #40 for performance testing.",
+      "tags": [
+        "class",
+        "group-0"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-41",
+      "type": "module",
+      "name": "module_41",
+      "summary": "Auto-generated module node #41 for performance testing.",
+      "tags": [
+        "module",
+        "group-1"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-42",
+      "type": "function",
+      "name": "function_42",
+      "summary": "Auto-generated function node #42 for performance testing.",
+      "tags": [
+        "function",
+        "group-2"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-43",
+      "type": "concept",
+      "name": "concept_43",
+      "summary": "Auto-generated concept node #43 for performance testing.",
+      "tags": [
+        "concept",
+        "group-3"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-44",
+      "type": "file",
+      "name": "file_44",
+      "filePath": "src/file_44.ts",
+      "summary": "Auto-generated file node #44 for performance testing.",
+      "tags": [
+        "file",
+        "group-4"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-45",
+      "type": "concept",
+      "name": "concept_45",
+      "summary": "Auto-generated concept node #45 for performance testing.",
+      "tags": [
+        "concept",
+        "group-5"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "node-46",
+      "type": "module",
+      "name": "module_46",
+      "summary": "Auto-generated module node #46 for performance testing.",
+      "tags": [
+        "module",
+        "group-6"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-47",
+      "type": "file",
+      "name": "file_47",
+      "filePath": "src/file_47.ts",
+      "summary": "Auto-generated file node #47 for performance testing.",
+      "tags": [
+        "file",
+        "group-7"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-48",
+      "type": "module",
+      "name": "module_48",
+      "summary": "Auto-generated module node #48 for performance testing.",
+      "tags": [
+        "module",
+        "group-8"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "node-49",
+      "type": "function",
+      "name": "function_49",
+      "summary": "Auto-generated function node #49 for performance testing.",
+      "tags": [
+        "function",
+        "group-9"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "node-13",
+      "target": "node-43",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.79
+    },
+    {
+      "source": "node-18",
+      "target": "node-32",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.78
+    },
+    {
+      "source": "node-33",
+      "target": "node-37",
+      "type": "implements",
+      "direction": "forward",
+      "weight": 0.03
+    },
+    {
+      "source": "node-39",
+      "target": "node-46",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 0.13
+    },
+    {
+      "source": "node-32",
+      "target": "node-49",
+      "type": "inherits",
+      "direction": "forward",
+      "weight": 0.88
+    },
+    {
+      "source": "node-41",
+      "target": "node-43",
+      "type": "reads_from",
+      "direction": "forward",
+      "weight": 0.3
+    },
+    {
+      "source": "node-8",
+      "target": "node-41",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "node-8",
+      "target": "node-11",
+      "type": "validates",
+      "direction": "forward",
+      "weight": 0.61
+    },
+    {
+      "source": "node-16",
+      "target": "node-24",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 0.35
+    },
+    {
+      "source": "node-11",
+      "target": "node-22",
+      "type": "middleware",
+      "direction": "forward",
+      "weight": 0.46
+    },
+    {
+      "source": "node-27",
+      "target": "node-31",
+      "type": "validates",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "node-29",
+      "target": "node-45",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0
+    },
+    {
+      "source": "node-33",
+      "target": "node-45",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.51
+    },
+    {
+      "source": "node-23",
+      "target": "node-30",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.34
+    },
+    {
+      "source": "node-4",
+      "target": "node-8",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.04
+    },
+    {
+      "source": "node-43",
+      "target": "node-44",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.3
+    },
+    {
+      "source": "node-34",
+      "target": "node-40",
+      "type": "writes_to",
+      "direction": "forward",
+      "weight": 0.79
+    },
+    {
+      "source": "node-38",
+      "target": "node-40",
+      "type": "writes_to",
+      "direction": "forward",
+      "weight": 0.82
+    },
+    {
+      "source": "node-48",
+      "target": "node-49",
+      "type": "reads_from",
+      "direction": "forward",
+      "weight": 0.72
+    },
+    {
+      "source": "node-31",
+      "target": "node-49",
+      "type": "similar_to",
+      "direction": "forward",
+      "weight": 0.64
+    },
+    {
+      "source": "node-28",
+      "target": "node-30",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.84
+    },
+    {
+      "source": "node-39",
+      "target": "node-44",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.05
+    },
+    {
+      "source": "node-0",
+      "target": "node-38",
+      "type": "middleware",
+      "direction": "forward",
+      "weight": 0.65
+    },
+    {
+      "source": "node-7",
+      "target": "node-20",
+      "type": "inherits",
+      "direction": "forward",
+      "weight": 0.17
+    },
+    {
+      "source": "node-47",
+      "target": "node-48",
+      "type": "inherits",
+      "direction": "forward",
+      "weight": 0.99
+    },
+    {
+      "source": "node-9",
+      "target": "node-10",
+      "type": "writes_to",
+      "direction": "forward",
+      "weight": 0.05
+    },
+    {
+      "source": "node-24",
+      "target": "node-29",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.42
+    },
+    {
+      "source": "node-26",
+      "target": "node-28",
+      "type": "writes_to",
+      "direction": "forward",
+      "weight": 0.06
+    },
+    {
+      "source": "node-24",
+      "target": "node-37",
+      "type": "publishes",
+      "direction": "forward",
+      "weight": 0.68
+    },
+    {
+      "source": "node-7",
+      "target": "node-9",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.78
+    },
+    {
+      "source": "node-20",
+      "target": "node-23",
+      "type": "implements",
+      "direction": "forward",
+      "weight": 0.33
+    },
+    {
+      "source": "node-12",
+      "target": "node-47",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.36
+    },
+    {
+      "source": "node-43",
+      "target": "node-49",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.35
+    },
+    {
+      "source": "node-25",
+      "target": "node-37",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.16
+    },
+    {
+      "source": "node-22",
+      "target": "node-47",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "node-34",
+      "target": "node-36",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.51
+    },
+    {
+      "source": "node-46",
+      "target": "node-48",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 0.58
+    },
+    {
+      "source": "node-32",
+      "target": "node-46",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.53
+    },
+    {
+      "source": "node-9",
+      "target": "node-24",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.61
+    },
+    {
+      "source": "node-12",
+      "target": "node-28",
+      "type": "subscribes",
+      "direction": "forward",
+      "weight": 0.96
+    },
+    {
+      "source": "node-35",
+      "target": "node-38",
+      "type": "reads_from",
+      "direction": "forward",
+      "weight": 0.24
+    },
+    {
+      "source": "node-11",
+      "target": "node-16",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.57
+    },
+    {
+      "source": "node-23",
+      "target": "node-25",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.72
+    },
+    {
+      "source": "node-7",
+      "target": "node-43",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.59
+    },
+    {
+      "source": "node-27",
+      "target": "node-38",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.26
+    },
+    {
+      "source": "node-10",
+      "target": "node-32",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.48
+    },
+    {
+      "source": "node-46",
+      "target": "node-49",
+      "type": "validates",
+      "direction": "forward",
+      "weight": 0.27
+    },
+    {
+      "source": "node-19",
+      "target": "node-24",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.66
+    },
+    {
+      "source": "node-42",
+      "target": "node-48",
+      "type": "validates",
+      "direction": "forward",
+      "weight": 0.93
+    },
+    {
+      "source": "node-28",
+      "target": "node-44",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.96
+    },
+    {
+      "source": "node-27",
+      "target": "node-32",
+      "type": "writes_to",
+      "direction": "forward",
+      "weight": 0.65
+    },
+    {
+      "source": "node-17",
+      "target": "node-18",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.61
+    },
+    {
+      "source": "node-25",
+      "target": "node-40",
+      "type": "validates",
+      "direction": "forward",
+      "weight": 0.38
+    },
+    {
+      "source": "node-43",
+      "target": "node-45",
+      "type": "implements",
+      "direction": "forward",
+      "weight": 0.96
+    },
+    {
+      "source": "node-3",
+      "target": "node-7",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.94
+    },
+    {
+      "source": "node-0",
+      "target": "node-39",
+      "type": "reads_from",
+      "direction": "forward",
+      "weight": 0.46
+    },
+    {
+      "source": "node-14",
+      "target": "node-21",
+      "type": "implements",
+      "direction": "forward",
+      "weight": 0.23
+    },
+    {
+      "source": "node-22",
+      "target": "node-30",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.17
+    },
+    {
+      "source": "node-26",
+      "target": "node-38",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 0.81
+    },
+    {
+      "source": "node-41",
+      "target": "node-45",
+      "type": "middleware",
+      "direction": "forward",
+      "weight": 0.16
+    },
+    {
+      "source": "node-2",
+      "target": "node-31",
+      "type": "middleware",
+      "direction": "forward",
+      "weight": 0.83
+    },
+    {
+      "source": "node-5",
+      "target": "node-8",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.59
+    },
+    {
+      "source": "node-22",
+      "target": "node-25",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.82
+    },
+    {
+      "source": "node-41",
+      "target": "node-44",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.79
+    },
+    {
+      "source": "node-21",
+      "target": "node-46",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.75
+    },
+    {
+      "source": "node-33",
+      "target": "node-34",
+      "type": "validates",
+      "direction": "forward",
+      "weight": 0.01
+    },
+    {
+      "source": "node-8",
+      "target": "node-16",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.67
+    },
+    {
+      "source": "node-38",
+      "target": "node-43",
+      "type": "similar_to",
+      "direction": "forward",
+      "weight": 0.14
+    },
+    {
+      "source": "node-46",
+      "target": "node-47",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.45
+    },
+    {
+      "source": "node-20",
+      "target": "node-32",
+      "type": "publishes",
+      "direction": "forward",
+      "weight": 0.3
+    },
+    {
+      "source": "node-3",
+      "target": "node-26",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.69
+    },
+    {
+      "source": "node-25",
+      "target": "node-36",
+      "type": "writes_to",
+      "direction": "forward",
+      "weight": 0.28
+    },
+    {
+      "source": "node-39",
+      "target": "node-43",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.44
+    },
+    {
+      "source": "node-7",
+      "target": "node-28",
+      "type": "middleware",
+      "direction": "forward",
+      "weight": 0.11
+    },
+    {
+      "source": "node-23",
+      "target": "node-48",
+      "type": "middleware",
+      "direction": "forward",
+      "weight": 0.91
+    },
+    {
+      "source": "node-2",
+      "target": "node-35",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.41
+    },
+    {
+      "source": "node-25",
+      "target": "node-41",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.93
+    },
+    {
+      "source": "node-10",
+      "target": "node-23",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 0.74
+    },
+    {
+      "source": "node-3",
+      "target": "node-40",
+      "type": "publishes",
+      "direction": "forward",
+      "weight": 0.49
+    },
+    {
+      "source": "node-22",
+      "target": "node-24",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.64
+    },
+    {
+      "source": "node-16",
+      "target": "node-22",
+      "type": "publishes",
+      "direction": "forward",
+      "weight": 0.65
+    },
+    {
+      "source": "node-34",
+      "target": "node-35",
+      "type": "publishes",
+      "direction": "forward",
+      "weight": 0.84
+    },
+    {
+      "source": "node-12",
+      "target": "node-25",
+      "type": "similar_to",
+      "direction": "forward",
+      "weight": 0.19
+    },
+    {
+      "source": "node-44",
+      "target": "node-47",
+      "type": "transforms",
+      "direction": "forward",
+      "weight": 0.21
+    },
+    {
+      "source": "node-19",
+      "target": "node-37",
+      "type": "reads_from",
+      "direction": "forward",
+      "weight": 0.27
+    }
+  ],
+  "layers": [
+    {
+      "id": "layer-0",
+      "name": "Presentation",
+      "description": "Presentation layer (auto-generated)",
+      "nodeIds": [
+        "node-0",
+        "node-1",
+        "node-2",
+        "node-3",
+        "node-4",
+        "node-5"
+      ]
+    },
+    {
+      "id": "layer-1",
+      "name": "Application",
+      "description": "Application layer (auto-generated)",
+      "nodeIds": [
+        "node-6",
+        "node-7",
+        "node-8",
+        "node-9",
+        "node-10",
+        "node-11"
+      ]
+    },
+    {
+      "id": "layer-2",
+      "name": "Domain",
+      "description": "Domain layer (auto-generated)",
+      "nodeIds": [
+        "node-12",
+        "node-13",
+        "node-14",
+        "node-15",
+        "node-16",
+        "node-17"
+      ]
+    },
+    {
+      "id": "layer-3",
+      "name": "Infrastructure",
+      "description": "Infrastructure layer (auto-generated)",
+      "nodeIds": [
+        "node-18",
+        "node-19",
+        "node-20",
+        "node-21",
+        "node-22",
+        "node-23",
+        "node-24"
+      ]
+    },
+    {
+      "id": "layer-4",
+      "name": "API Gateway",
+      "description": "API Gateway layer (auto-generated)",
+      "nodeIds": [
+        "node-25",
+        "node-26",
+        "node-27",
+        "node-28",
+        "node-29",
+        "node-30"
+      ]
+    },
+    {
+      "id": "layer-5",
+      "name": "Data Access",
+      "description": "Data Access layer (auto-generated)",
+      "nodeIds": [
+        "node-31",
+        "node-32",
+        "node-33",
+        "node-34",
+        "node-35",
+        "node-36"
+      ]
+    },
+    {
+      "id": "layer-6",
+      "name": "Utilities",
+      "description": "Utilities layer (auto-generated)",
+      "nodeIds": [
+        "node-37",
+        "node-38",
+        "node-39",
+        "node-40",
+        "node-41",
+        "node-42"
+      ]
+    },
+    {
+      "id": "layer-7",
+      "name": "Testing",
+      "description": "Testing layer (auto-generated)",
+      "nodeIds": [
+        "node-43",
+        "node-44",
+        "node-45",
+        "node-46",
+        "node-47",
+        "node-48",
+        "node-49"
+      ]
+    }
+  ],
+  "tour": []
+}
