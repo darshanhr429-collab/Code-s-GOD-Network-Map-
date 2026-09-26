@@ -2,8 +2,8 @@
  * Code's GOD Network Map — Master Topology Catalog Index
  * Maintained and Owned by Darshan H R <darshanhr429@gmail.com>
  *
- * Comprehensive repository of 10 enterprise architectural topologies
- * spanning 720,000+ lines of graph specifications.
+ * Grand Enterprise Architecture Registry spanning 1,020,000+ lines of code
+ * across 14 planetary-scale distributed topologies.
  */
 
 export interface CatalogMetadata {
@@ -39,6 +39,38 @@ export const CATALOG_REGISTRY: CatalogMetadata[] = [
     description: "Exabyte-scale distributed data fabric pipeline architecture.",
     nodeCount: 2200,
     edgeCount: 4067
+  },
+  {
+    id: "global-satellite-orbital-mesh",
+    name: "Global Satellite Orbital Mesh",
+    filename: "global-satellite-orbital-mesh.json",
+    description: "Ultra-low-latency LEO constellation optical routing network.",
+    nodeCount: 2200,
+    edgeCount: 4069
+  },
+  {
+    id: "autonomous-robotics-fleet-core",
+    name: "Autonomous Robotics Fleet Core",
+    filename: "autonomous-robotics-fleet-core.json",
+    description: "Industrial autonomous robotics swarm coordination and sensor fusion topology.",
+    nodeCount: 2200,
+    edgeCount: 4069
+  },
+  {
+    id: "high-frequency-financial-clearing",
+    name: "High Frequency Financial Clearing",
+    filename: "high-frequency-financial-clearing.json",
+    description: "Sub-microsecond order execution engine and liquidity routing fabric.",
+    nodeCount: 2100,
+    edgeCount: 3883
+  },
+  {
+    id: "genomic-sequence-pipeline-mesh",
+    name: "Genomic Sequence Pipeline Mesh",
+    filename: "genomic-sequence-pipeline-mesh.json",
+    description: "High-throughput parallel genetic sequencing and variant discovery topology.",
+    nodeCount: 2100,
+    edgeCount: 3882
   },
   {
     id: "distributed-cloud-mesh",
