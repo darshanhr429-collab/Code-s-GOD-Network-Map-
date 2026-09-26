@@ -3,14 +3,15 @@
   "private": true,
   "type": "module",
   "description": "An open-source tool combining LLM intelligence + static analysis to produce interactive dashboards for understanding codebases.",
+  "author": "Darshan H R <darshanhr429@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/Egonex-AI/Understand-Anything#readme",
+  "homepage": "https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Egonex-AI/Understand-Anything.git"
+    "url": "git+https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-.git"
   },
   "bugs": {
-    "url": "https://github.com/Egonex-AI/Understand-Anything/issues"
+    "url": "https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-/issues"
   },
   "keywords": [
     "claude-code",
