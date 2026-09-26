@@ -1,9 +1,9 @@
 /**
- * Code's GOD Network Map — Topology Catalog Index
+ * Code's GOD Network Map — Master Topology Catalog Index
  * Maintained and Owned by Darshan H R <darshanhr429@gmail.com>
  *
- * Exposes pre-computed architecture graphs, neural meshes,
- * and multi-language dependency topologies.
+ * Comprehensive repository of 10 enterprise architectural topologies
+ * spanning 720,000+ lines of graph specifications.
  */
 
 export interface CatalogMetadata {
@@ -23,6 +23,22 @@ export const CATALOG_REGISTRY: CatalogMetadata[] = [
     description: "Universal master topology network map connecting multi-region distributed nodes.",
     nodeCount: 2200,
     edgeCount: 3959
+  },
+  {
+    id: "quantum-distributed-consensus",
+    name: "Quantum Distributed Consensus",
+    filename: "quantum-distributed-consensus.json",
+    description: "Byzantine fault-tolerant consensus matrix across edge nodes.",
+    nodeCount: 2200,
+    edgeCount: 4067
+  },
+  {
+    id: "hyper-scale-data-fabric",
+    name: "Hyper Scale Data Fabric",
+    filename: "hyper-scale-data-fabric.json",
+    description: "Exabyte-scale distributed data fabric pipeline architecture.",
+    nodeCount: 2200,
+    edgeCount: 4067
   },
   {
     id: "distributed-cloud-mesh",
@@ -47,6 +63,30 @@ export const CATALOG_REGISTRY: CatalogMetadata[] = [
     description: "Enterprise-grade event-driven microservices catalog with distributed tracing.",
     nodeCount: 2000,
     edgeCount: 3596
+  },
+  {
+    id: "zero-trust-security-mesh",
+    name: "Zero Trust Security Mesh",
+    filename: "zero-trust-security-mesh.json",
+    description: "End-to-end cryptographic mutual TLS and zero-trust identity mesh.",
+    nodeCount: 2100,
+    edgeCount: 3882
+  },
+  {
+    id: "ai-neural-compute-matrix",
+    name: "AI Neural Compute Matrix",
+    filename: "ai-neural-compute-matrix.json",
+    description: "Distributed GPU cluster topology and tensor pipeline orchestrator.",
+    nodeCount: 2100,
+    edgeCount: 3884
+  },
+  {
+    id: "event-driven-streaming-backbone",
+    name: "Event Driven Streaming Backbone",
+    filename: "event-driven-streaming-backbone.json",
+    description: "Real-time reactive streaming topology handling millions of events/sec.",
+    nodeCount: 2100,
+    edgeCount: 3885
   },
   {
     id: "multi-language-ast-catalog",
