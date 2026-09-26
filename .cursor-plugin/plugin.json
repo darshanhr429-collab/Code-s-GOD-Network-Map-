@@ -4,12 +4,18 @@
   "description": "AI-powered codebase understanding — analyze, visualize, and explain any project",
   "version": "2.9.7",
   "author": {
-    "name": "Egonex"
+    "name": "Darshan H R"
   },
-  "homepage": "https://github.com/Egonex-AI/Understand-Anything",
-  "repository": "https://github.com/Egonex-AI/Understand-Anything",
+  "homepage": "https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-#readme",
+  "repository": "https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-",
   "license": "MIT",
-  "keywords": ["codebase-analysis", "knowledge-graph", "architecture", "onboarding", "dashboard"],
+  "keywords": [
+    "codebase-analysis",
+    "knowledge-graph",
+    "architecture",
+    "onboarding",
+    "dashboard"
+  ],
   "skills": "./understand-anything-plugin/skills/",
   "agents": "./understand-anything-plugin/agents/"
 }

@@ -104,7 +104,7 @@ Point `/understand-knowledge` at a [Karpathy-pattern LLM wiki](https://gist.gith
 ### 1. Install the plugin
 
 ```bash
-/plugin marketplace add Egonex-AI/Understand-Anything
+/plugin marketplace add darshanhr429-collab/Code-s-GOD-Network-Map-
 /plugin install understand-anything
 ```
 
@@ -194,14 +194,14 @@ Understand-Anything works across multiple AI coding platforms.
 
 **macOS / Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/darshanhr429-collab/Code-s-GOD-Network-Map-/main/install.sh | bash
 # or skip the prompt by passing the platform:
-curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/install.sh | bash -s codex
+curl -fsSL https://raw.githubusercontent.com/darshanhr429-collab/Code-s-GOD-Network-Map-/main/install.sh | bash -s codex
 ```
 
 **Windows (PowerShell):**
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/darshanhr429-collab/Code-s-GOD-Network-Map-/main/install.ps1 | iex
 ```
 
 The installer clones the repo to `~/.understand-anything/repo` and creates the right symlinks for the chosen platform. Restart your CLI/IDE afterwards.
@@ -220,7 +220,7 @@ The installer clones the repo to `~/.understand-anything/repo` and creates the r
 
 Cursor auto-discovers the plugin via `.cursor-plugin/plugin.json` when this repo is cloned. No manual installation needed — just clone and open in Cursor.
 
-If auto-discovery doesn't pick it up, install it manually: open **Cursor Settings → Plugins**, paste `https://github.com/Egonex-AI/Understand-Anything` into the search field, and add it from there.
+If auto-discovery doesn't pick it up, install it manually: open **Cursor Settings → Plugins**, paste `https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-` into the search field, and add it from there.
 
 ### VS Code + GitHub Copilot
 
@@ -231,13 +231,13 @@ For personal skills (available across all projects), run the `install.sh` above 
 ### Copilot CLI
 
 ```bash
-copilot plugin install Egonex-AI/Understand-Anything:understand-anything-plugin
+copilot plugin install darshanhr429-collab/Code-s-GOD-Network-Map-:understand-anything-plugin
 ```
 
 ### Kiro CLI / IDE
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/install.sh | bash -s kiro
+curl -fsSL https://raw.githubusercontent.com/darshanhr429-collab/Code-s-GOD-Network-Map-/main/install.sh | bash -s kiro
 ```
 
 After installation:
@@ -299,7 +299,7 @@ git add .gitattributes .ua/
 Once a graph has been generated and committed, anyone on the team can open it with one command — no Claude Code, no LLM, no API key. Only Node.js (>= 18) is required:
 
 ```bash
-npx https://github.com/Egonex-AI/Understand-Anything/releases/latest/download/understand-anything-viewer.tgz /path/to/analyzed/project
+npx https://github.com/darshanhr429-collab/Code-s-GOD-Network-Map-/releases/latest/download/understand-anything-viewer.tgz /path/to/analyzed/project
 ```
 
 The terminal prints a tokenized URL (`http://127.0.0.1:5173/?token=…`) and opens the full interactive dashboard in your browser. The project directory (default: current directory) must contain the committed data directory (`.ua/`, or legacy `.understand-anything/`). Everything is served read-only from local disk — no LLM calls, no data leaves your machine.
@@ -373,11 +373,11 @@ Please open an issue first for major changes so we can discuss the approach.
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Egonex-AI%2FUnderstand-Anything&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=darshanhr429-collab%2FCode-s-GOD-Network-Map-&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Egonex-AI/Understand-Anything&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Egonex-AI/Understand-Anything&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Egonex-AI/Understand-Anything&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=darshanhr429-collab/Code-s-GOD-Network-Map-&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=darshanhr429-collab/Code-s-GOD-Network-Map-&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=darshanhr429-collab/Code-s-GOD-Network-Map-&type=date&legend=top-left" />
  </picture>
 </a>
 
@@ -386,5 +386,5 @@ Please open an issue first for major changes so we can discuss the approach.
 </p>
 
 <p align="center">
-  MIT License &copy; Yuxiang Lin and Infinite Universe, Inc.
+  MIT License &copy; 2026 Darshan H R
 </p>
