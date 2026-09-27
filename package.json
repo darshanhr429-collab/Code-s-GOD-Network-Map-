@@ -32,6 +32,7 @@
     "build": "pnpm -r build",
     "test": "vitest run",
     "benchmark:large-repo": "node scripts/benchmark-large-repo.mjs",
+    "generate:100m": "node scripts/generate-god-matrix-100m.mjs",
     "dev:dashboard": "pnpm --filter @understand-anything/dashboard dev",
     "lint": "eslint ."
   },

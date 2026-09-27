@@ -17,6 +17,7 @@ export default tseslint.config(
       '**/.copilot-plugin/**',
       '**/.astro/**',
       '.private/**',
+      'graphs/matrix/**',
     ],
   },
   eslint.configs.recommended,

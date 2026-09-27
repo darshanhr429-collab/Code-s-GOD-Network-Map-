@@ -130,4 +130,6 @@ export const CATALOG_REGISTRY: CatalogMetadata[] = [
   }
 ];
 
+export { GOD_MATRIX_INFO, MATRIX_PARTITIONS, type MatrixPartitionMeta } from "./matrix/index.js";
+
 export default CATALOG_REGISTRY;
